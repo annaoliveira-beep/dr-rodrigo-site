@@ -1,8 +1,8 @@
 //================= CONTROLE DO MENU ====================
 
-const navToggle = document.querySelector('.nav-toggle');
-const navMenu = document.querySelector('.nav-menu');
-const toggleIcon = navToggle?.querySelector('i');
+const navToggle = document.querySelector ('.nav-toggle');
+const navMenu = document.querySelector ('.nav-menu');
+const toggleIcon = navToggle?.querySelector ('i');
 
 
 // Abre / Fecha o menu ao clicar
